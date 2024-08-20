@@ -1,0 +1,11 @@
+{
+  "name": "mixpanel-cleanup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "lodash.chunk": "^4.2.0",
+    "mixpanel": "^0.18.0"
+  }
+}
